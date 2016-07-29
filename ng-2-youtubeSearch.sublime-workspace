@@ -1,0 +1,858 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Event",
+				"EventEmitter	alias"
+			],
+			[
+				"cons",
+				"constructor	keyword"
+			],
+			[
+				"te",
+				"templateUrl	property"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"$state",
+				"$stateParams"
+			],
+			[
+				"stack",
+				"Stack"
+			],
+			[
+				"md-tool",
+				"md-toolbar	Angular Material - Toolbars are usually used above a content area to display the title of the current page, and show relevant action buttons for that page."
+			],
+			[
+				"for",
+				"angular.forEach"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ng-bind",
+				"ng-bind-html	AngularJS"
+			],
+			[
+				"lig",
+				"lighten	Sass-function"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"pass",
+				"passport"
+			],
+			[
+				"max-",
+				"max-width: "
+			],
+			[
+				"angular",
+				"angular.copy"
+			],
+			[
+				"trans",
+				"transition: "
+			],
+			[
+				"bord",
+				"border: "
+			],
+			[
+				"text",
+				"text-shadow: "
+			],
+			[
+				"border",
+				"border-color: "
+			],
+			[
+				"bb",
+				"border-bottom: "
+			],
+			[
+				"remove",
+				"angular: removeClass"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"wid",
+				"width: "
+			],
+			[
+				"remo",
+				"angular: removeClass"
+			],
+			[
+				"ion-pane",
+				"ionic-pane	ionic-pane"
+			],
+			[
+				"ion-list",
+				"ionic-list	ionic-list"
+			],
+			[
+				"ion-con",
+				"ionic-content	ionic-content"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/components/YouTubeSearchComponent.ts",
+			"settings":
+			{
+				"buffer_size": 1184,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/services/YouTubeService.service.ts",
+			"settings":
+			{
+				"buffer_size": 1789,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/SearchBox.component.ts",
+			"settings":
+			{
+				"buffer_size": 1473,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/SearchResult.component.ts",
+			"settings":
+			{
+				"buffer_size": 634,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Data Center/Projects/Angular 2/youtube-search",
+		"/Volumes/Data Center/Projects/Angular 2/youtube-search/app",
+		"/Volumes/Data Center/Projects/Angular 2/youtube-search/app/components",
+		"/Volumes/Data Center/Projects/Angular 2/youtube-search/app/services"
+	],
+	"file_history":
+	[
+		"/Volumes/Data Center/Projects/Angular 2/youtube-search/ng-2-youtubeSearch.sublime-project",
+		"/Users/iaakash/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/iaakash/Dropbox/angular 2/Reddit clone/package.json",
+		"/Volumes/Data Center/Projects/Angular 2/testing/package.json",
+		"/Users/iaakash/Dropbox/ng2 Recipes/fem-ng2-ngrx-app/client/src/common/stores/selectedWidget.store.ts",
+		"/Users/iaakash/Dropbox/ng2 Recipes/fem-ng2-ngrx-app/client/src/common/stores/selectedItem.store.ts",
+		"/Users/iaakash/Dropbox/ng2 Recipes/fem-ng2-ngrx-app/client/src/common/stores/items.store.ts",
+		"/Users/iaakash/Dropbox/ng2 Recipes/fem-ng2-ngrx-app/client/boot.ts",
+		"/Users/iaakash/Dropbox/ng2 Recipes/ngbook2 code/how_angular_works/inventory_app/app.ts",
+		"/Users/iaakash/Dropbox/ng2 Boilerplate/index.html",
+		"/Volumes/JetBrains [Crack]/README!!!!.txt",
+		"/Users/iaakash/Dropbox/Angular 2/angular2-BookmarkManager/app/articlesWrap/articles.component.ts",
+		"/Users/iaakash/Dropbox/Angular 2/angular2-BookmarkManager/app/app.tmpl.html",
+		"/Users/iaakash/Dropbox/Angular1.5 and ES6/Route-To-ng2/Gulpfile.js",
+		"/Users/iaakash/Dropbox/Angular1.5 and ES6/Route-To-ng2/node_modules/node-libs-browser/package.json",
+		"/Users/iaakash/Dropbox/Angular1.5 and ES6/Route-To-ng2/webpack.config.js",
+		"/Users/iaakash/Dropbox/Angular1.5 and ES6/Route-To-ng2/package.json",
+		"/Users/iaakash/Dropbox/Angular1.5 and ES6/Route-To-ng2/node_modules/raw-loader/index.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/dashboard.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/jobs/jobs.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/index.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/profileViewViaSkillSearch/profileView.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/ctcMax/ctcMax.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/styles/app.scss",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfilesShortlisted/ProfilesShortlisted.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfilesForCreatedJob/profiles.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfileView/profile.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/selectSkills/selectSkills.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/createJobController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/growthSkill/growthSkill.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/widgets/jobCard/jobcard.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfileView/ProfileViewController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/widgets/widgets.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/selectSkills/selectSkills.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/searchedProfiles/searchedProfilesController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/dashboard.controller.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfilesForCreatedJob/profilesForCreatedJob.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfilesForCreatedJob/ProfilesForCreatedJob.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/home/dashboard.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/core/router.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/home/homeController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/core/constants.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dataServices/jobsService.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dataServices/authService.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/jobs/CreatedJobsController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/editJobController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/growthSkill/growthSkill.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/equityMin/equityMin.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/equityMax/equityMax.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/ctcMax/ctcMax.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/ctcMin/ctcMin.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/createJob.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/ctcMin/ctcMin.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/ctcMin/ctcMin.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/locationSelection/locationSelection.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/locationSelection/editlocationSelection.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/locationSelection/locationSelection.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/locationSelection/locationSelection.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/app.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/editJob.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/locationSelection/locationSelection.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/locationSelection/locationSelection.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/growthSkill/growthSkill.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/equityMin/equityMin.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/equityMax/equityMax.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/ctcMin/ctcMin.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/ctcMax/ctcMax.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/selectSkills/selectSkills.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/selectSkills/selectSkills.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/ctcMax/ctcMax.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/growthSkill/growthSkill.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/core/core.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/core/checkbox-helper.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfilesShortlisted/ProfilesShortlistedController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/previewJob/previewJobController.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/equityMax/equityMax.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/equityMin/equityMin.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/growthSkill/growthSkill.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/ctcMin/ctcMin.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/ctcMax/ctcMax.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/locationSelection/locationSelection.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/components/selectSkills/selectSkills.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfilesShortlisted/ProfilesShortlisted.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/editJob/editJob.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/createJob.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/ProfileView/ProfileView.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dataServices/dataService.module.js",
+		"/Users/iaakash/Desktop/svg-range-slider/js/index.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/styles/placeholders/_common.scss",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/growthSkill/growthSkill.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/equityMax/equityMax.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/equityMin/equityMin.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/equityMin/equityMin.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/components/ctcMax/ctcMax.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/jobs/CreatedJobs.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dummyRemote/created_jobs.json",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dummyRemote/profile_view.json",
+		"/Users/iaakash/Desktop/xlott-2.0/src/styles/base/_variables.scss",
+		"/Users/iaakash/Desktop/xlott-2.0/src/styles/base/_normalise.scss",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/previewJob/previewJob.html",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/previewJob/previewJob.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/styles/susy/_padding.scss",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dataServices/genricFetchService.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dummyRemote/equity.json",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dummyRemote/ctc.json",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dummyRemote/ctcMin.json",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dummyRemote/locations.json",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/createJob/createJob.controller.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/createjob/createJob.module.js",
+		"/Users/iaakash/Desktop/xlott-2.0/src/app/dashboard/profileViewViaSkillSearch/profileViewViaSkillSearchController.js",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/app/core/checkbox-helper.module.js",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/app/createjob/createJob.html",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/app/companyInfo/companyInfo.html",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/app/dashboard/ProfileView/profile.html",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/styles/placeholders/_common.scss",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/app/dashboard/ProfileView/ProfileViewController.js",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/app/dummyRemote/profile_view.json",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/styles/base/_normalise.scss",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/app/dashboard/jobs/jobs.html",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/styles/base/_variables.scss",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/styles/app.scss",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/styles/placeholders/__manifest.scss",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/styles/susy/language/susy/_breakpoint-plugin.scss",
+		"/Users/iaakash/Dropbox/Xlott 2.0/src/app/dummyRemote/profiles.json",
+		"/Users/iaakash/Library/Mobile Documents/com~apple~CloudDocs/Xlott 2.0/src/index.html",
+		"/Users/iaakash/Library/Mobile Documents/com~apple~CloudDocs/Xlott 2.0/src/app/dashboard/jobs/CreatedJobs.module.js",
+		"/Users/iaakash/Library/Mobile Documents/com~apple~CloudDocs/Xlott 2.0/src/app/dummyRemote/created_jobs.json",
+		"/Users/iaakash/Library/Mobile Documents/com~apple~CloudDocs/Xlott 2.0/src/app/createjob/createJob.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+			"/Users/iaakash/Desktop/xlott-2.0/src/app",
+			"/Users/iaakash/Library/Mobile Documents/com~apple~CloudDocs/Angular Code Organisation/modular"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".shortlist_block i",
+			"profile-card .shortlist_block i",
+			".profileWraper",
+			"MAINnAV",
+			".profileRoll",
+			"console",
+			"job.showJobPanel",
+			"http://104.197.157.160/profile ",
+			"fetchProfilesForSearchedSkills",
+			"transformChip",
+			"growthSkillController",
+			"eqMinController",
+			"eqMaxController",
+			"ctcMaxController",
+			"selectLocation",
+			"locationSelectionComponent",
+			"selectLocation",
+			"pc",
+			"gs",
+			"self",
+			"equityMin",
+			"Min",
+			"self",
+			"eqmin",
+			"self",
+			"cmax",
+			"createJob",
+			"eq",
+			"ctc",
+			"growthSkill",
+			"eqMax",
+			"eqMin",
+			"ctcMax",
+			"ctcMin",
+			"self",
+			"cmin",
+			"as",
+			"bindToController: true",
+			"cjc",
+			"self",
+			"ss",
+			"ls",
+			"self",
+			"cjc",
+			"http://192.168.1.30",
+			"updateSlider",
+			"ctrl",
+			"dc",
+			".viewcard",
+			";\n",
+			"min",
+			"eqmin",
+			"Ctc",
+			"cmin",
+			"ss",
+			"app",
+			"createJob",
+			"profileDetailshead",
+			"pc",
+			"checkbox",
+			"cjc.job.areaToContribute",
+			"summary_section",
+			".MainNav",
+			"span.job_location",
+			".jobRoll",
+			"jobRoll",
+			"CSS",
+			"Git",
+			"Stack",
+			"metaPane",
+			"$scope",
+			"false",
+			"showCities",
+			"fetchShippingValue",
+			"fetchShipping",
+			"searchTextChange",
+			"fetchShippingValue",
+			"blur",
+			"vm",
+			"home",
+			"vm",
+			"cart",
+			"Buy Now",
+			"aside",
+			"authentication",
+			"authentication.client.controller.js",
+			"ps",
+			"1.jpg",
+			"ps",
+			"task",
+			"@",
+			"less",
+			"[\n",
+			"less",
+			"ac",
+			"vm",
+			"$name",
+			"note",
+			"application",
+			"var cwd",
+			"watch",
+			"jshint",
+			"url('fonts",
+			"overflow",
+			".cf",
+			"http://odesk.grastorf/",
+			";\n",
+			"selectedSong",
+			"$scope",
+			"$",
+			"<h2>",
+			" ▸ ",
+			"PostModel",
+			"Todo",
+			"cpc",
+			"$scope",
+			"VM",
+			"UCC",
+			"vm",
+			"</p>",
+			"<p>",
+			"p",
+			"TDC",
+			"vm",
+			"3222",
+			"anchor",
+			".menuIcon-macros",
+			"input[type=\"submit\"] {"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/components/YouTubeSearchComponent.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								741,
+								741
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 374.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/services/YouTubeService.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 435.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/components/SearchBox.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1446,
+								1446
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 401.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/components/SearchResult.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 118.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "ng-2-youtubeSearch.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"router",
+				"core/router.module.js"
+			],
+			[
+				"profilesforcreatedjob",
+				"app/dashboard/ProfilesForCreatedJob/profilesForCreatedJob.js"
+			],
+			[
+				"app",
+				"styles/app.scss"
+			],
+			[
+				"a",
+				"styles/app.scss"
+			],
+			[
+				"create",
+				"app/dashboard/createJob/createJobController.js"
+			],
+			[
+				"place",
+				"styles/placeholders/_common.scss"
+			],
+			[
+				"nor",
+				"styles/base/_normalise.scss"
+			],
+			[
+				"var",
+				"styles/base/_variables.scss"
+			],
+			[
+				"apps",
+				"styles/app.scss"
+			],
+			[
+				"profileviewcontroller",
+				"app/dashboard/ProfileView/ProfileViewController.js"
+			],
+			[
+				"profileviewviaskillsearchcontroller",
+				"app/dashboard/profileViewViaSkillSearch/profileViewViaSkillSearchController.js"
+			],
+			[
+				"searchedprofilescontroller",
+				"app/dashboard/searchedProfiles/searchedProfilesController.js"
+			],
+			[
+				"mixins",
+				"styles/mixins/_generic.scss"
+			],
+			[
+				"created",
+				"app/dashboard/jobs/CreatedJobsController.js"
+			],
+			[
+				"company",
+				"app/companyInfo/companyInfo.html"
+			],
+			[
+				"ro",
+				"app.routes.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"routes",
+				"app.routes.js"
+			],
+			[
+				"server",
+				"server.js"
+			],
+			[
+				"express",
+				"config/express.js"
+			],
+			[
+				"deve",
+				"config/env/development.js"
+			],
+			[
+				"maps",
+				"helpers/_maps.scss"
+			],
+			[
+				"generic",
+				"layout/_generic.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
